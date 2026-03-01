@@ -1,0 +1,1 @@
+writeLines(capture.output(sessionInfo()), "environment/session_info.txt")

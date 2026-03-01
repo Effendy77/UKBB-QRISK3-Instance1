@@ -1,0 +1,19 @@
+# UK Biobank raw data
+data/raw/
+
+# Intermediate datasets
+data/intermediate/*.csv
+data/imputed/*.csv
+
+# Results
+results/
+*.rds
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# R workspace
+.Rhistory
+.RData
