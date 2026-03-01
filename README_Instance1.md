@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18828284.svg)](https://doi.org/10.5281/zenodo.18828284)
+
+
 📘 README.md
 QRISK3 – Instance 1 Cohort (UK Biobank)
 📌 Overview
