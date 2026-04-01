@@ -306,3 +306,9 @@ Reproducible PhD-level methodology
 If used in academic work, please cite:
 
 Effendy Bin Hashim et al. QRISK3 computation in UK Biobank Instance 1 cohort. GitHub repository.
+
+
+## Data Availability
+
+This repository does not contain any UK Biobank participant data.
+All analyses are performed on locally stored data under UK Biobank access approval.
